@@ -48,7 +48,7 @@ class MyAppState extends State<MyApp> {
                   // print("${index} : ${item}");
                 },
                 onItemSearched: (value) {
-                  print({value});
+                  // print({value});
                 },
               )
             ],
